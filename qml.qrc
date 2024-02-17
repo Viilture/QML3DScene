@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BasicCamera.qml</file>
+        <file>Lights.qml</file>
+        <file>MyScene.qml</file>
+        <file>TrefoilKnot.qml</file>
+        <file>image.png</file>
+        <file>plane-10x10.obj</file>
+    </qresource>
+</RCC>
